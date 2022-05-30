@@ -1,10 +1,7 @@
+
 This is file3
 This line has been changged
 new branch added for test so making chnages in the file
 xyzdftt
-<<<<<<< HEAD
-need change
-=======
-student
->>>>>>> 4e2cad8c796a67ef6f6c51b8cc9de00c14c2d485
+hi need chnage
 
